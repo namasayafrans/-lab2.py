@@ -1,2 +1,2 @@
-# -lab2.py
+# lab2.py
 belajar python 
