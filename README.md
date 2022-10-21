@@ -1,8 +1,8 @@
-Nama : Frans Putra Sinaga
+Nama  : Frans Putra Sinaga
 
-Nim  : 312210046
+NIM   : 312210046
 
-Kelas: TI.22.A
+Kelas : TI.22.A1
 
 ## Cara penginstalan GIT
 
